@@ -1,0 +1,16 @@
+# Walkthrough - Mini CRM Assignment
+
+## Backend (Django)
+- Created models: Customer, Lead
+- Used Django REST Framework for APIs
+- API endpoints: `/api/customers/`, `/api/leads/`
+
+## Frontend (React)
+- Components for listing, creating, and editing records
+- Used Axios for API integration
+- Clean layout with form validations
+
+## Highlights
+- Clean code architecture
+- Ready-to-run locally
+- Extensible structure for future additions
